@@ -1,0 +1,14 @@
+---
+title: "week1-discussion"
+author: "Madison Enda"
+date: 01/07/2025
+format: html
+editor: visual
+---
+
+```{r}
+install.packages("here") # for reproducible, relative file paths
+install.packages("janitor") # tools for cleaning dirty data
+install.packages("usdata") # demographic data on the United States at the county and state levels spanning multiple years.
+```
+
